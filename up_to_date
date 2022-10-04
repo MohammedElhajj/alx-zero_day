@@ -1,0 +1,5 @@
+$git clone (repo) 
+$git add test 
+$git commit -m "Initial commit" 
+$git push orign main 
+$git status
